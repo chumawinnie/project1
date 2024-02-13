@@ -1,1 +1,1 @@
-# Bioinoformatic NGS project on RNASEQ 
+# Bioinformatic NGS project on RNASEQ 
