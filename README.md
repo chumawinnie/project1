@@ -1,1 +1,1 @@
-# project1
+# Bioinoformatic NGS project on RNASEQ 
