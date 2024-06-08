@@ -1,1 +1,1 @@
-# Bioinformatic NGS project on RNASEQ 
+# Bioinformatic NGS project on whole-genome-sequeing  
