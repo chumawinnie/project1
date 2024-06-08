@@ -1,1 +1,1 @@
-# Bioinformatic NGS project on whole-genome-sequeing  
+# Bioinformatic NGS project on whole-genome-sequeing 
